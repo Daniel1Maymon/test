@@ -15,5 +15,6 @@ pipline {
         echo 'test the application'
       }
     }
+      
   }
 }
