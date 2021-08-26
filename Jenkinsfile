@@ -8,7 +8,8 @@ pipline {
       steps {
         echo 'building the aplication...'
       }
-      
+    }
+    
     stage("test") {
       steps {
         echo 'test the application'
