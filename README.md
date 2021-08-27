@@ -1,3 +1,2 @@
-# new comment
-# another commit
+# delete all commits
 echo "hello"
