@@ -1,2 +1,2 @@
-# delete all commits
+# delete all
 echo "hello"
