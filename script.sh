@@ -1,4 +1,7 @@
 stage("Testing instances"){
-       echo "Testing"
+       steps {
+              sh "chmod +x -R ${env.WORKSPACE}"
+              echo "Testing"
+       }
     }
  }
